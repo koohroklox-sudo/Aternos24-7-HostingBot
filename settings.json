@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": "SurvivalAbKL.aternos.me",
+    "port": 32547,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
